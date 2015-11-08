@@ -1,18 +1,6 @@
 
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Git Home Page: My Thinkful Projects</title>
-</head>
-<body>
-	<ul>
 		<li><a href="http://mythinkful.github.io/googleclone/">Google Clone</a></li>
 		<li><a href="http://mythinkful.github.io/37signalsclone/">37 Signals Clone</a></li>
 		<li><a href="http://mythinkful.github.io/hotorcold/">Hot or Cold</a></li>		
 		<li><a href="http://mythinkful.github.io/shoppinglist/">Shopping List</a></li>
-
-	</ul>
-	
-</body>
-</html>
 
